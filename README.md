@@ -16,5 +16,5 @@ Tools and Languages
 - Items in each room must be generated randomly every 30 seconds
 - Game have statistic calculate system in each round
 
-Game Proposal
+Game Proposal (Thai Language)
 https://drive.google.com/file/d/1F6oO1RGHOiEGn68CJUo6DlCZqR07oLXn/view?usp=sharing
